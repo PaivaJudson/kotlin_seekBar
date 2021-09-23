@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Instituto_de_código_RatingBar</string>
+    <string name="btn_executar">Executar</string>
 </resources>
